@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm José Manuel 👋
 
-<!--
-**dudidemuel/dudidemuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 📝 About
+I'm a economist who is trying this new field called font-end development. I'm a studente at [Rocketseat](https://www.rocketseat.com.br) and [codeacademy](https://www.codecademy.com).
 
-Here are some ideas to get you started:
+#### 📌 Currently learning
+- Main language: `JavaScript`
+- Back-end: `Nodejs`
+- Front-end: `Reactjs`, `HTML5`, `CSS3`, `JavaScript`
+- Layout Design: `Figma`
+- Version code control: `Git & Github`
+- Tools: `VsCode`, `Markdown`
+- Languages: `Portuguese`, `English`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📫 How to reach me:
+- E-mail: josemaneul1@gmail.com
+- LinkedIn: https://www.linkedin.com/in/josé-f-0a9502103/ 
+- Instagram: https://www.instagram.com/guridoslivros/
